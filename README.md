@@ -1,2 +1,1 @@
-# TTS_Darija
-# TTS_implementation
+# Text To Speech synthesis following a Tocotron 1 architecture and WaveRNN vocoder.
